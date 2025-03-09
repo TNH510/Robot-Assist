@@ -3,5 +3,6 @@
     "idf.espIdfPathWin": "D:\\program_file\\esp-idf\\",
     "idf.toolsPathWin": "C:\\Users\\Hieu\\.espressif",
     "idf.pythonInstallPath": "C:\\Users\\Hieu\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
-    "idf.flashType": "DFU"
+    "idf.flashType": "UART",
+    "idf.portWin": "COM13"
 }
